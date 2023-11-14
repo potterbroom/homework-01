@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	double F, C;
-	cout << "���뻪���¶�" << endl;
+	cout << "ÊäÈë»ªÊÏÎÂ¶È" << endl;
 	cin >> F;
 	C = (F - 32) / 1.8;
 	cout << fixed << setprecision(2) << C << endl;
