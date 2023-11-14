@@ -5,7 +5,7 @@ int main()
 {
 	float r, h;
 	float v;
-	cout << "ÊäÈë°ëºÍ¸ß" << endl;
+	cout << "ÃŠÃ¤ÃˆÃ«Â°Ã«ÂºÃÂ¸ÃŸ" << endl;
 	cin >> r >> h;
 	v = (pi * r * r * h) / 3;
 	cout << v << endl;
