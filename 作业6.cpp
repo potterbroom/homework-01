@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 	char p;
-	cout << "ÊäÈëÒ»¸ö×ÖÄ¸" << endl;
+	cout << "ÃŠÃ¤ÃˆÃ«Ã’Â»Â¸Ã¶Ã—Ã–Ã„Â¸" << endl;
 	cin >> p;
 	if (p >= 'a' && p <= 'z')
 	{
